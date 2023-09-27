@@ -1,1 +1,1 @@
-# ECE_558_Assignments
+# Laplacian Blob detector
